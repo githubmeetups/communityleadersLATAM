@@ -9,7 +9,7 @@ Estamos encantados de que te unas a GitHub como líder comunitario y esperamos c
 El Programa de líderes comunitarios de GitHub es un programa comunitario para permitir que las personas y sus comunidades locales crezcan con Open Source y GitHub.
 
 ## Acerca de las Comunidades
-Las comunidades de código abierto de GitHub son grupos de desarrolladores en una ciudad o región específica, que participan asistiendo a eventos, participando en transmisiones en vivo, compartiendo conocimientos y fomentando la colaboración
+Las comunidades de código abierto de GitHub son grupos de desarrolladores en una ciudad o región específica, que participan asistiendo a eventos, organizando "GitTogethers" participando en transmisiones en vivo, compartiendo conocimientos y fomentando la colaboración
 
 
 ## The People
