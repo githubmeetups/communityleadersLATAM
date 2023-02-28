@@ -17,4 +17,4 @@ Las comunidades de código abierto de GitHub son grupos de desarrolladores en un
 | Name | GitHub Username | City/Country | Time Zone | Avatar |
 |---|---|---|---|---| 
 | Vicente Guzmán | [@LucioMSP](https://github.com/luciomsp) | México/MX | GMT-6 | ![](https://avatars.githubusercontent.com/luciomsp?s=64) |
-| Denny Perez | [@DennyPerez18](https://github.com/DennyPerez18) | Canada | GMT-5 | ![](https://avatars.githubusercontent.com/DennyPerez18?s=64)
+| Denny Perez | [@DennyPerez18](https://github.com/DennyPerez18) | República Dominicana | GMT-5 | ![](https://avatars.githubusercontent.com/DennyPerez18?s=64)
