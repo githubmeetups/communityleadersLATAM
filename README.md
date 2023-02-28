@@ -15,6 +15,5 @@ Las comunidades de código abierto de GitHub son grupos de desarrolladores en un
 ## The People
 
 | Name | GitHub Username | City/Country | Time Zone | Avatar |
-|---|---|---|---|---|
-| Andrea Griffiths | [@andreagriffiths11](https://github.com/andreagriffiths11) | Bradenton/US | EST | ![](https://avatars.githubusercontent.com/andreagriffiths11?s=64) 
+|---|---|---|---|---| 
 | Vicente Guzmán | [@LucioMSP](https://github.com/luciomsp) | México/MX | GMT-6 | ![](https://avatars.githubusercontent.com/luciomsp?s=64) |
