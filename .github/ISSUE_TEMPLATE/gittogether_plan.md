@@ -2,7 +2,6 @@
 name: GitTogether
 acerca: 'Utiliza esta template para organizer tu proximo GitTogether '
 titulo: "[Mes] GitTogether [Region o ciudad]"
-responsables: 
 
 ---
 <!-- Hola! Bienvenido a este fichero --> 
