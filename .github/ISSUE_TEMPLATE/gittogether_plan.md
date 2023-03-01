@@ -1,15 +1,15 @@
 ---
-name: GitTogether
-about: 'Utiliza esta template para organizer tu proximo GitTogether '
-titulo: "[Mes] GitTogether [Region o ciudad]"
-
+name: GitTogether planificacion de evento
+about: Utiliza esta template para organizer tu proximo GitTogether 
+title: GitTogether
+assignees: andreagriffiths11
 ---
 <!-- Hola! Bienvenido a este fichero --> 
 **Fecha** :  <br>
 **Ciudad** :  <br>
 
 **Tematica central de este evento:** <!-- lo mejor que pueda, siga el calendario temático. Cuando se decida su tema general, narrativa, hilo para el evento, agréguelo aquí. -->
-**Su descripción de 1 párrafo debe reemplazar esta línea**
+Su descripción de 1 párrafo debe reemplazar esta línea
 
 **ToDo** 
 
