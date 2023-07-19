@@ -30,18 +30,18 @@ Su descripción de 1 párrafo debe reemplazar esta línea
 
 # Tasks para lider comunitario 
 
-### <br> **Ponenente 1**
+### <br> **Ponente 1**
 <br> **Nombre:** 
 <br> **Tema:** _agregue el tema aquí, incluya enlaces a la plataforma de diapositivas, etc..._
 - [ ] Contacto inicial, ponente completo la siguiente forma de ponente: [forma](https://githubmeetup.typeform.com/to/avPXjuPY).
 - [ ] Fecha y hora confirmados con ponente
-- [ ] Tema de ponente aprovado
+- [ ] Tema de ponente aprobado
 
-### <br> **Ponnte 2**
+### <br> **Ponente 2**
 <br> **Nombre:** 
 <br> **Tema:** _agregue el tema aquí, incluya enlaces a la plataforma de diapositivas, etc..._
 - [ ] Contacto inicial, ponente completo la siguiente forma de ponente: [forma](https://githubmeetup.typeform.com/to/avPXjuPY).
 - [ ] Fecha y hora confirmados con ponente
-- [ ] Tema de ponente aprovado
+- [ ] Tema de ponente aprobado
 
 
