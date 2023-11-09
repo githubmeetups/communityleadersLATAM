@@ -21,3 +21,4 @@ Las comunidades de código abierto de GitHub son grupos de desarrolladores en un
 | Kevin Villatoro | [@Shockerex](https://github.com/Shockerex) | Guatemala/GT | GMT-6 | ![](https://avatars.githubusercontent.com/Shockerex?s=64) |
 | Oscar Barajas | [@gndx](https://github.com/gndx) | Medellín/CO | GMT-5 | ![](https://avatars.githubusercontent.com/gndx?s=64) |
 | Cesar Méndez | [@devcsar](https://github.com/devcsar) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/devcsar?s=64) |
+| Gustavo Jimenez | [@tavodev](https://github.com/tavodev) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/tavodev?s=64) |
