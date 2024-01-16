@@ -17,8 +17,10 @@ Las comunidades de código abierto de GitHub son grupos de desarrolladores en un
 | Name | GitHub Username | City/Country | Time Zone | Avatar |
 |---|---|---|---|---| 
 | Manuel Ortiz | [@ManuOSMx](https://github.com/manuosmx) | México/MX | GMT-6 | ![](https://avatars.githubusercontent.com/manuosmx?s=64) |
+| Alejandra Perez | [@aleepsy](https://github.com/aleepsy) | México/MX | GMT-6 | ![](https://avatars.githubusercontent.com/aleepsy?s=64) |
 | Denny Perez | [@DennyPerez18](https://github.com/DennyPerez18) | República Dominicana | GMT-5 | ![](https://avatars.githubusercontent.com/DennyPerez18?s=64) |
 | Kevin Villatoro | [@Shockerex](https://github.com/Shockerex) | Guatemala/GT | GMT-6 | ![](https://avatars.githubusercontent.com/Shockerex?s=64) |
 | Oscar Barajas | [@gndx](https://github.com/gndx) | Medellín/CO | GMT-5 | ![](https://avatars.githubusercontent.com/gndx?s=64) |
 | Cesar Méndez | [@devcsar](https://github.com/devcsar) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/devcsar?s=64) |
 | Gustavo Jimenez | [@tavodev](https://github.com/tavodev) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/tavodev?s=64) |
+
