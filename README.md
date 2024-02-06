@@ -1,16 +1,14 @@
 
-## Bienvenidos!
+## Welcome!
 
-Estamos encantados de que te unas a GitHub como líder comunitario y esperamos con interés la energía y la experiencia que aportarás a nuestro grupo.
-¡Sigamos haciendo que la tecnología de código abierto sea accesible, agradable y exitosa! 
+We are thrilled that you are joining GitHub as a community leader and look forward to the energy and experience you will bring to our group. Let's continue to make open-source technology accessible, enjoyable, and successful!
 
-## GitHub Community Leader Mision
+## GitHub Community Leader Mission
 
-El Programa de líderes comunitarios de GitHub es un programa comunitario para permitir que las personas y sus comunidades locales crezcan con Open Source y GitHub.
+The GitHub Community Leaders Program is a community initiative to enable individuals and their local communities to grow with Open Source and GitHub.
 
-## Acerca de las Comunidades
-Las comunidades de código abierto de GitHub son grupos de desarrolladores en una ciudad o región específica, que participan asistiendo a eventos, organizando "GitTogethers" participando en transmisiones en vivo, compartiendo conocimientos y fomentando la colaboración
-
+## About the Communities
+GitHub's open-source communities are groups of developers in a specific city or region, who participate by attending events, organizing "GitTogethers," participating in live streams, sharing knowledge, and fostering collaboration.
 
 ## The People
 
