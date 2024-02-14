@@ -22,4 +22,6 @@ GitHub's open-source communities are groups of developers in a specific city or 
 | Cesar Méndez | [@devcsar](https://github.com/devcsar) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/devcsar?s=64) |
 | Gustavo Jimenez | [@tavodev](https://github.com/tavodev) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/tavodev?s=64) |
 | Sara Nieto | [@sarantogo](https://github.com/sarantogo) | Medellín/CO | GMT-5 | ![](https://avatars.githubusercontent.com/sarantogo?s=64) |
+| Elizabeth Rangel | [@elizarangelm](https://github.com/elizarangelm) | Medellín/CO | GMT-5 | ![](https://avatars.githubusercontent.com/elizarangelm?s=64) |
 | Dorian Hidalgo | [@dahidalgo](https://github.com/dahidalgo) | Guatemala/GT | GMT-6 | ![](https://avatars.githubusercontent.com/dahidalgo?s=64) |
+
