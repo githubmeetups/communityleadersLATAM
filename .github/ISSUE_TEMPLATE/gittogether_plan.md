@@ -1,6 +1,6 @@
 ---
 name: GitTogether planificacion de evento
-about: Utiliza esta template para organizer tu proximo GitTogether 
+about: Utiliza esta template para organizar tu proximo GitTogether 
 title: GitTogether
 assignees: andreagriffiths11
 ---
